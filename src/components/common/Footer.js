@@ -48,9 +48,9 @@ function Footer() {
   return (
     <FooterContainer $isDarkMode={isDarkMode}>
       <TextContainer>
-        <div>Engineered and Designed with</div>
+        <div>Designed</div>
         <HeartIcon>  &#128296;;  </HeartIcon>
-        <div>by Kr. Harshit Singh</div>
+        <div>by Nikita Samyal</div>
       </TextContainer>
     </FooterContainer>
   );

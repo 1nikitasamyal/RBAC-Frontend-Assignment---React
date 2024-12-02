@@ -136,7 +136,7 @@ function Navbar() {
     <>
       {/* Navbar Component */}
       <NavbarContainer $isDarkMode={isDarkMode}>
-        <Heading>SecureSphere</Heading>
+        <Heading>CyberVault</Heading>
         <ButtonContainer>
           {/* Toggle Mode */}
           <ToggleButton
